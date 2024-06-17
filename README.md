@@ -2,14 +2,12 @@
 # Inside out - Dental Clinic React Website
 
 **Inside out** is a Modern Responsive Website for Dental Clinic. It is built
-with ReactJS, Bootstrap, and Sass. Dental clinic can use
-this template to bring their business online or increase business visibility.
+with ReactJS, Bootstrap, and Sass.
 
 
 ## Tech Stack
 React, Bootstrap, SASS, React Router, React Slick, React Icons and AOS
 
-**Hosting:** Netlify
 
 ## Website Features
 
